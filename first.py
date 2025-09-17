@@ -12,4 +12,4 @@ else:
     if is_prime:
         print(num, "is a Prime Number")
     else:
-        print(num, "is NOT a Prime Number")
+        print(num, "is NOT a Prime")
