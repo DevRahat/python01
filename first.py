@@ -1,7 +1,7 @@
 num = int(input("Enter a number: "))
 
 if num <= 1:
-    print(num, "is NOT a Prime Number")
+    print(num, "is NOT a Prime")
 else:
     is_prime = True
     for i in range(2, int(num**0.5) + 1):   # √num পর্যন্ত check
